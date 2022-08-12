@@ -1,11 +1,24 @@
 {
-    "users": [{
-            "id": 1,
-            "name": "Marcos Faria",
-            "email": "marcos@react.com"
-        }, {
-            "id": 2,
-            "name": "Maria da Silva",
-            "email": "maria@react.com"
-    }]
+  "users": [
+    {
+      "id": 1,
+      "name": "Marcos Faria",
+      "email": "marcos@react.com"
+    },
+    {
+      "id": 2,
+      "name": "Maria da Silva",
+      "email": "maria@react.com"
+    },
+    {
+      "name": "Antonio Veloso",
+      "email": "antonio@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Maria Gilda",
+      "email": "maria@gmail.com",
+      "id": 4
+    }
+  ]
 }
